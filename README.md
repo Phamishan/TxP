@@ -11,3 +11,7 @@ Vores system vil kunne interagere med brugerne gennem et dashboard, der viser **
 - PONG🏓
 - BRICK BREAKER🧱
 - SIDE-SCROLLING PLATFORMER👟
+
+
+#### Use cases
+Jeg vil kunne spille snake og andre retro arcade spil.
